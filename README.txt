@@ -70,3 +70,6 @@ dense_8 (Dense)              (None, 10)                1010
 Total params: 2,494,982
 Trainable params: 2,491,838
 Non-trainable params: 3,144
+
+Model achieved about 83% accuracy on Test set after training for about 150 epochs.
+
